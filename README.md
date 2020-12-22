@@ -21,16 +21,3 @@ ICCAD_3: It consists of training images 5,554 (with 910 hotspot and 4644 without
 ICCAD_4: It consists of training images 4549 (96 with hotspot and 4453 without hotspot) and  32069 testing images(178 with hotspot and 31891 without hotspot)
 ICCAD_5: It consists of training images 2744 (27 with hotspot and 2717 without hotspot) and  testing images 19370 (42 with hotspot and 19328 without hotspot)
 
-Hyper-Parameters Used:
-
-Epochs use <= 20
-
-Model = Sequential
-Layers                                                                                   Hyper-parameters
-Multilayer Perceptron                                  Layers = 8,Batch Size = 64, Image Shape = 224,224,3
-CNN                                                             Filters = 12, Kernel size = (3,3), activation = ELU
-CNN                                                             Filters = 12, Kernel size = (3,3), activation = ELU
-CNN                                                             Filters = 12, Kernel size = (3,3), activation = None
-Batch Normalization                                    momentum=0.99, epsilon=0.001
-Activation                                                     type = ELU
-MaxPooling                                                  pooling window = (2,2)
