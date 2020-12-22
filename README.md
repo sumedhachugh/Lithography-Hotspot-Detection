@@ -1,6 +1,6 @@
 # Lithography-Hotspot-Detection
 
-Lithography refers to the series of steps that establish the shapes, dimensions, and location of the various components of the integrated circuit. 
+Lithography technique is used to pattern specific shapes of a thin layer on a rigid substrate for fabricating electrical devices.
 
 Lithography hotspot is a place where it is susceptible to open circuit or short circuit error due to poor printability of certain patterns in a design layout. 
 
