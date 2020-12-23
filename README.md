@@ -7,7 +7,7 @@ Lithography hotspot is a place where it is susceptible to open circuit or short 
 To avoid undesirable patterns in layout, it is mandatory to find hotspots in the early design stage. 
 Lithography simulation is computationally expensive way for hotspot detection so I chose Deep learning based technique and was able detect hotspots with an accuracy of 97.9%
 
-This project is based on following Research Paper: https://ieeexplore.ieee.org/document/8434561
+This project is based on the mentioned Research Paper: https://ieeexplore.ieee.org/document/8434561
 
 Link for Dataset: http://appsrv.cse.cuhk.edu.hk/~hyyang/files/iccad-official.tgz
 
