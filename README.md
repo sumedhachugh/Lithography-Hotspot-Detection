@@ -14,7 +14,7 @@ Link for Dataset: http://appsrv.cse.cuhk.edu.hk/~hyyang/files/iccad-official.tgz
 More Details about Dataset: https://appsrv.cse.cuhk.edu.hk/~hyyang/files/hsd-web/index.html
 
 Dataset used for implementation:
-Dataset used is ICCAD benchmark dataset and data is unlabelled. It has five sub-datasets:
+Dataset used is ICCAD benchmark dataset. It has five sub-datasets:
 
 ICCAD_1: It consists of 440 training images(100 with hotspot and 340 without hotspot) and  4907 testing images(227 with hotspot and 4680 without hotspot)
 
