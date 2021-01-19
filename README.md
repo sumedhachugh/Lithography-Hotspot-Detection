@@ -1,6 +1,6 @@
 # Lithography-Hotspot-Detection
 
-#### Refer Project_summary.pdf (https://github.com/sumedhachugh/Lithography-Hotspot-Detection/blob/main/Project_summary.pdf) for short description of what all I have done in the project
+#### Refer Project_summary.pdf (https://github.com/sumedhachugh/Lithography-Hotspot-Detection/blob/main/Project_summary.pdf) for short description the project
 
 Lithography technique is used to pattern specific shapes of a thin layer on a rigid substrate for fabricating electrical devices.
 
