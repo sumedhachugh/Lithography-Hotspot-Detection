@@ -1,6 +1,6 @@
 # Lithography-Hotspot-Detection
 
-(Removed thesis and paper to avoid plag as it is in publication process,will upload as soon as it gets published)
+### (Removed thesis and paper to avoid plag as it is in publication process,will upload as soon as it gets published)
 
 
 Lithography technique is used to pattern specific shapes of a thin layer on a rigid substrate for fabricating electrical devices.
