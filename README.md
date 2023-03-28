@@ -1,5 +1,7 @@
 # Lithography-Hotspot-Detection
 
+### Research Paper: https://ieeexplore.ieee.org/document/10051370
+
 ### Read in detail: http://dspace.dtu.ac.in:8080/jspui/bitstream/repository/18915/1/Thesis_Sumedha%20M.Tech..pdf
 
 
