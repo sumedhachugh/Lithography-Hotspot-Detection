@@ -14,11 +14,8 @@ Lithography simulation is computationally expensive way for hotspot detection so
 
 ### Folder titled 'notebooks' contains code files 
 
-Link for Dataset: http://appsrv.cse.cuhk.edu.hk/~hyyang/files/iccad-official.tgz
+Link for Dataset: https://drive.google.com/file/d/1In9dr5kaAXbflTDn9uUZR1yDHplWnnU4/view?usp=sharing
 
-https://drive.google.com/file/d/1In9dr5kaAXbflTDn9uUZR1yDHplWnnU4/view?usp=sharing
-
-More Details about Dataset: https://appsrv.cse.cuhk.edu.hk/~hyyang/files/hsd-web/index.html
 
 Dataset used for implementation:
 Dataset used is ICCAD benchmark dataset. It has five sub-datasets:
